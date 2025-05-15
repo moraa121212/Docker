@@ -1,1 +1,1 @@
-echo "mangaaaa"
+echo "mangaaaaa"
